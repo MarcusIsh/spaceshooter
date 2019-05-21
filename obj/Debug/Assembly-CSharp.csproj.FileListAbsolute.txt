@@ -1,0 +1,2 @@
+E:\unityGameDev\space shooter\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\unityGameDev\space shooter\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
